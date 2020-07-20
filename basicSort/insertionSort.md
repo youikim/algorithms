@@ -7,7 +7,7 @@ S[]의 경우 정렬이 완료된 배열이고, U[]의 경우 아직 정렬되�
 초기에 a[0]이 S[] 배열에 포함되고 a[1:]은 U[] 배열에 속한다. 매 단계에서 U배열의 한 원소를 S배열에 삽입하며 U배열이 비워질 때까지 반복하는 정렬 방법이다.
 
 ## 2. 삽입 정렬 그림
-![Alt text](/imgs/Insertionsort_002.png)
+![Alt text](/imgs/insertionsort_002.png)
 
 ## * Link: [삽입 정렬 애니메이션 링크][insertionSortlink]
 
