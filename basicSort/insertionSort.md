@@ -35,5 +35,5 @@ end insertionSort()
 > 삽입 정렬은 필요할 때에 한해서 삽입을 진행하기 때문에 데이터가 이미 거의 정렬된 상태에서 어떤 알고리즘 보다 빠름
 
 
-<iframe sandbox="allow-popups allow-same-origin allow-scripts allow-top-navigation" src="https://ko.khanacademy.org/computer-programming/program/5008603698429952/embedded?embed=yes&amp;author=no&amp;editor=no&amp;width=688&amp;buttons=no&amp;settings=%7B%7D" class="perseus-scratchpad" allowfullscreen="" style="height: 400px; width: 100%;"></iframe>
 
+<iframe src="https://ko.khanacademy.org/computer-programming/program/5008603698429952/embedded?embed=yes&amp;author=no&amp;editor=no&amp;width=688&amp;buttons=no&amp;settings=%7B%7D" allowfullscreen style="height: 400px; width: 100%;"></iframe>
