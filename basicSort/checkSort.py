@@ -1,3 +1,5 @@
+## 200720 김영섭
+
 def checkSort(a, n):
     isSorted=True
     for i in range(1, n):
