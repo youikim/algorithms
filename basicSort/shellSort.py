@@ -1,3 +1,5 @@
+## 김영섭
+
 def shellSort(a, n):
     h = 1
     while h < n:  ## 첫번째 간격 계산
