@@ -7,7 +7,7 @@ S[]의 경우 정렬이 완료된 배열이고, U[]의 경우 아직 정렬되�
 초기에 a[0]이 S[] 배열에 포함되고 a[1:]은 U[] 배열에 속한다. 매 단계에서 U배열의 가장 왼쪽에 위치한 원소(U[0])를 S배열에 삽입하며 U배열이 비워질 때까지 반복하는 정렬 방법이다.
 
 ## 2. 삽입 정렬 그림
-![Alt text](/imgs/Insertionsort_002.png)
+![Alt text](/imgs/insertionsort_002.png)
 
 
 ## 3. 삽입 정렬 수도 코드
@@ -43,5 +43,6 @@ end insertionSort()
 
 [insertionSortlink]: https://ko.khanacademy.org/computer-programming/program/5008603698429952/embedded?embed=yes&author=no&editor=no&width=688&buttons=no&settings=%7B%7D "Go google"
 
+![Alt text](/imgs/Insertionsort_move.gif) \
+By <a href="//commons.wikimedia.org/w/index.php?title=User:Simpsons_contributor&amp;action=edit&amp;redlink=1" class="new" title="User:Simpsons contributor (page does not exist)">Simpsons contributor</a> - <span class="int-own-work" lang="ko">자작</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17512147">링크</a>
 
-<iframe src="https://ko.khanacademy.org/computer-programming/program/5008603698429952/embedded?embed=yes&amp;author=no&amp;editor=no&amp;width=688&amp;buttons=no&amp;settings=%7B%7D" allowfullscreen style="height: 400px; width: 100%;"></iframe>
