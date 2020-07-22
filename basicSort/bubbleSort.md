@@ -13,7 +13,7 @@
 
 ### <span style='color:blue'>3. 정렬 순서</span>
 
-<img src='./정렬순서.PNG'>
+![shellSort1.png](/imgs/shellSort1.PNG)
 
 ### <span style='color:blue'>4. Index 계산 방법</span>
 > 1. 간격(Gap)을 계산하는 방법은 여러가지가 있음
